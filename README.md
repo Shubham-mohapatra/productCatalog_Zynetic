@@ -28,11 +28,11 @@ Or press a to launch the Android emulator, i for iOS simulator (if configured)
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./assets/screenshots/home.png)
+![Home Screen](./assets/screenshots/home.jpg)
 
 ### 📦 Product Detail Screen
-![Product Detail](./assets/screenshots/product_detail.png)
+![Product Detail](./assets/screenshots/product_detail.jpg)
 
 ### Search Products
-![Product Search](./assets/screenshots/search_product.png)
+![Product Search](./assets/screenshots/search_product.jpg)
 
