@@ -106,4 +106,8 @@ Try out the app instantly on Expo:
  **[Open Product Catalog App on Expo](https://expo.dev/accounts/shubham290704/projects/ProductCatalogApp)**  
 [![Try on Expo](https://img.shields.io/badge/Open%20in-Expo-blue?logo=expo)](https://expo.dev/accounts/shubham290704/projects/ProductCatalogApp)
 
+- Install the Expo Go app (from Play Store or App Store).
+- Click the app link OR open Expo Go and scan the QR code 
+- The app will launch instantly on you're phone!
+
 
