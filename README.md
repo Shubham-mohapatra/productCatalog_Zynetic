@@ -99,3 +99,11 @@ Or press a to launch the Android emulator, i for iOS simulator (if configured)
 - Improved understanding of modular components and reusable design patterns.
 - Understood Expo's dev tools and QR-based mobile deployment.
 
+## 📱 Live App Link
+
+Try out the app instantly on Expo:
+
+ **[Open Product Catalog App on Expo](https://expo.dev/accounts/shubham290704/projects/ProductCatalogApp)**  
+[![Try on Expo](https://img.shields.io/badge/Open%20in-Expo-blue?logo=expo)](https://expo.dev/accounts/shubham290704/projects/ProductCatalogApp)
+
+
