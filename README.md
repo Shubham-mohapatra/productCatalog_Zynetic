@@ -12,12 +12,14 @@ A mobile-first product catalog app built using **React Native** and **Expo**, de
    cd ProductCatalogApp
    
 2. Install dependencies
-      npm install
+   ```bash
+     npm install
 
 3. Start the Expo development server
+    ```bash
       npx expo start
 
-4. Run the app
+5. Run the app
 Scan the QR code in the terminal using the Expo Go app on your Android/iOS device
 Or press a to launch the Android emulator, i for iOS simulator (if configured)
 
