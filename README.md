@@ -7,36 +7,37 @@ A mobile-first product catalog app built using **React Native** and **Expo**, de
 # 🛍️ Folder Structure
 
 ProductCatalogApp/
-│
+|
 ├── assets/
-│   └── screenshots/
-│       ├── home.jpg
-│       ├── product_detail.jpg
-│       └── search_product.jpg
-│
+|   └── screenshots/
+|       ├── home.jpg  
+|       ├── product_detail.jpg  
+|       └── search_product.jpg  
+|
 ├── src/
-│   ├── api/
-│   │   └── productApi.js
-│   │
-│   ├── components/
-│   │   ├── ErrorView.js
-│   │   ├── ImageCarousel.js
-│   │   ├── LoadingIndicator.js
-│   │   └── ProductCard.js
-│   │
-│   ├── navigation/
-│   │   └── AppNavigator.js
-│   │
-│   └── screens/
-│       ├── ProductDetailsScreen.js
-│       └── ProductListScreen.js
-│
-├── App.js
-├── app.json
-├── index.js
-├── package.json
-├── package-lock.json
+|   ├── api/
+|   |   └── productApi.js  
+|   |
+|   ├── components/
+|   |   ├── ErrorView.js  
+|   |   ├── ImageCarousel.js  
+|   |   ├── LoadingIndicator.js  
+|   |   └── ProductCard.js  
+|   |
+|   ├── navigation/
+|   |   └── AppNavigator.js  
+|   |
+|   └── screens/
+|       ├── ProductDetailsScreen.js  
+|       └── ProductListScreen.js  
+|
+├── App.js  
+├── app.json  
+├── index.js  
+├── package.json  
+├── package-lock.json  
 └── README.md
+
 
 
 ---
