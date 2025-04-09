@@ -1,4 +1,11 @@
+
+
+
 # 🛍️ Product Catalog App - Zynetic
+
+![React Native](https://img.shields.io/badge/React_Native-2024-blue)
+![Expo](https://img.shields.io/badge/Expo-50.0.0-orange)
+![Platform](https://img.shields.io/badge/Platform-Android/iOS-lightgrey) 
 
 A mobile-first product catalog app built using **React Native** and **Expo**, designed to help users view and manage product listings with a clean, vibrant UI.
 
@@ -75,4 +82,25 @@ Or press a to launch the Android emulator, i for iOS simulator (if configured)
 
 ### Search Products
 <img src="./assets/screenshots/search_product.jpg" alt="Home Screen" width="300"/>
+
+#📝 Assumptions & Notes
+All components are modular and can be reused.
+
+Navigation is handled using @react-navigation/native.
+
+# 🌟 Bonus Implementations
+ Loading Indicator while fetching products
+
+ Image Carousel for product images
+
+ Error View if product fetch fails
+
+ Clean UI with a professional look
+
+## 📚 Learnings & Challenges
+
+- Learned how to set up and use **React Navigation** in a real-world app.
+- Faced issues with image resizing on different devices, solved using `resizeMode` in Image component.
+- Improved understanding of modular components and reusable design patterns.
+- Understood Expo's dev tools and QR-based mobile deployment.
 
