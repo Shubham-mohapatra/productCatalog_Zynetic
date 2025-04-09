@@ -83,12 +83,12 @@ Or press a to launch the Android emulator, i for iOS simulator (if configured)
 ### Search Products
 <img src="./assets/screenshots/search_product.jpg" alt="Home Screen" width="300"/>
 
-#📝 Assumptions & Notes
+## 📝 Assumptions & Notes
 All components are modular and can be reused.
 
 Navigation is handled using @react-navigation/native.
 
-#🌟 Bonus Implementations
+## 🌟 Bonus Implementations
  Loading Indicator while fetching products
 
  Image Carousel for product images
