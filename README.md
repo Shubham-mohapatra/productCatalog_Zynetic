@@ -84,23 +84,18 @@ Or press a to launch the Android emulator, i for iOS simulator (if configured)
 <img src="./assets/screenshots/search_product.jpg" alt="Home Screen" width="300"/>
 
 ## 📝 Assumptions & Notes
-All components are modular and can be reused.
-
-Navigation is handled using @react-navigation/native.
+- All components are modular and can be reused.
+- Navigation is handled using @react-navigation/native.
 
 ## 🌟 Bonus Implementations
- Loading Indicator while fetching products
-
- Image Carousel for product images
-
- Error View if product fetch fails
-
- Clean UI with a professional look
+ - Loading Indicator while fetching products
+ - Image Carousel for product images
+ - Error View if product fetch fails
+ - Clean UI with a professional look
 
 ## 📚 Learnings & Challenges
 
 - Learned how to set up and use **React Navigation** in a real-world app.
-- Faced issues with image resizing on different devices, solved using `resizeMode` in Image component.
 - Improved understanding of modular components and reusable design patterns.
 - Understood Expo's dev tools and QR-based mobile deployment.
 
