@@ -5,7 +5,7 @@ A mobile-first product catalog app built using **React Native** and **Expo**, de
 ---
 
 # 🛍️ Folder Structure
-    ```bash
+
 ProductCatalogApp/
 ├── assets/
 │   └── images, splash screen, etc.
