@@ -4,6 +4,21 @@ A mobile-first product catalog app built using **React Native** and **Expo**, de
 
 ---
 
+# 🛍️ Folder Structure
+    ```bash
+ProductCatalogApp/
+├── assets/
+│   └── images, splash screen, etc.
+├── components/
+│   └── reusable UI components
+├── screens/
+│   └── Home.js, ProductDetail.js, etc.
+├── App.js
+├── app.json
+└── package.json
+
+---
+
 ## 🚀 Setup Instructions
 
 1. **Clone the repository and navigate to the project directory**
