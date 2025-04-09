@@ -23,3 +23,16 @@ A mobile-first product catalog app built using **React Native** and **Expo**, de
 Scan the QR code in the terminal using the Expo Go app on your Android/iOS device
 Or press a to launch the Android emulator, i for iOS simulator (if configured)
 
+
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](./assets/screenshots/home.png)
+
+### 📦 Product Detail Screen
+![Product Detail](./assets/screenshots/product_detail.png)
+
+### Search Products
+![Product Search](./assets/screenshots/search_product.png)
+
